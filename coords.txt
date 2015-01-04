@@ -1,0 +1,37 @@
+ctx.fillRect(div_x(-1081),div_y(4886),5,5); /* stupid squid island */
+ctx.fillRect(div_x(-1156),div_y(3486),5,5); /* southern disembark point (sand house) */
+ctx.fillRect(div_x(-201),div_y(305),5,5); /* the hobbit house */
+ctx.fillRect(div_x(-225),div_y(187),5,5); /* a bridge over canyon */
+ctx.fillRect(div_x(-242),div_y(253),5,5); /* tree torch */
+ctx.fillRect(div_x(-269),div_y(239),5,5); /* craft table */
+ctx.fillRect(div_x(-281),div_y(2890),5,5); /* key hole mountain */
+ctx.fillRect(div_x(-391),div_y(213),5,5); /* lava pool */
+ctx.fillRect(div_x(-526),div_y(4032),5,5); /* giant mushroom cove */
+ctx.fillRect(div_x(-706),div_y(265),5,5); /* north-facing single doorway */
+ctx.fillRect(div_x(-712),div_y(499),5,5); /* 2nd nether portal (obsidian farm) */
+ctx.fillRect(div_x(-724),div_y(326),5,5); /* mountain-facing doorway */
+ctx.fillRect(div_x(-728),div_y(289),5,5); /* three torches base */
+ctx.fillRect(div_x(-748),div_y(1797),5,5); /* snowy summit */
+ctx.fillRect(div_x(-761),div_y(1408),5,5); /* pork chop lava falls */
+ctx.fillRect(div_x(-768),div_y(2304),5,5); /* somewhere south (big pond) */
+ctx.fillRect(div_x(-784),div_y(5511),5,5); /* 2nd desert landscape */
+ctx.fillRect(div_x(-787),div_y(240),5,5); /* bottom of twin lava falls */
+ctx.fillRect(div_x(-788),div_y(288),5,5); /* far west corner entry level */
+ctx.fillRect(div_x(-790),div_y(341),5,5); /* in the house near the coal house (1st nether portal) */
+ctx.fillRect(div_x(-797),div_y(231),5,5); /* bottom of deep stairway */
+ctx.fillRect(div_x(-855),div_y(1060),5,5); /* giant cave */
+ctx.fillRect(div_x(-941),div_y(314),5,5); /* house with a view */
+ctx.fillRect(div_x(1775),div_y(375),5,5); /* unclear */
+ctx.fillRect(div_x(193),div_y(204),5,5); /* giant diving board */
+ctx.fillRect(div_x(2618),div_y(223),5,5); /* eastern nether portal */
+ctx.fillRect(div_x(268),div_y(1388),5,5); /* keyhole 2 */
+ctx.fillRect(div_x(279),div_y(630),5,5); /* more giant mushrooms */
+ctx.fillRect(div_x(2812),div_y(1126),5,5); /* sunflower biome */
+ctx.fillRect(div_x(2840),div_y(130),5,5); /* (maybe near desert temple/house) */
+ctx.fillRect(div_x(305),div_y(2062),5,5); /* pretty flowers */
+ctx.fillRect(div_x(3241),div_y(974),5,5); /* jungle house */
+ctx.fillRect(div_x(333),div_y(2378),5,5); /* friendly village */
+ctx.fillRect(div_x(384),div_y(823),5,5); /* forest */
+ctx.fillRect(div_x(58),div_y(2613),5,5); /* floating obelisk bay (probably just a cloud) */
+ctx.fillRect(div_x(64),div_y(280),5,5); /* arrow bay */
+

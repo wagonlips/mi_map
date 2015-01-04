@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8"/>
+    <title>Canvas tutorial</title>
+    <script type="text/javascript">
+function draw_grid(ctx) {
+  var ctx = document.getElementById('canvas').getContext('2d');
+  try {
+    /* vertical lines */
+    for (var x = 0.5; x < 500; x += 10) {
+      ctx.moveTo(x, 0);
+      ctx.lineTo(x, 375);
+    }
+
+    /* horizontal lines */
+    for (var y = 0.5; y < 375; y += 10) {
+      ctx.moveTo(0, y);
+      ctx.lineTo(500, y);
+    }
+
+    /* draw it! */
+    ctx.strokeStyle = "#eee";
+    ctx.stroke();
+  } catch(err) {}
+}
+    </script>
+    <style type="text/css">
+      canvas { border: 1px solid black; }
+    </style>
+  </head>
+  <body onload="draw_grid();">
+    <canvas id="canvas" width="500" height="375"></canvas>
+  </body>
+</html>
